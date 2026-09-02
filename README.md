@@ -8,7 +8,6 @@ I bridge the gap between IT systems administration and artificial intelligence. 
 
 - 🎓 **Education:** B.Tech in Information Technology
 - 🔭 **Current Focus:** Containerized AI deployment (Docker/AWS) & Model Quality Assurance
-- 🎯 **Goal:** Pursuing a Master's degree in AI Software Engineering/Systems Architecture via the MEXT Scholarship (2027)
 
 ---
 
