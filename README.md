@@ -34,9 +34,8 @@ I bridge the gap between IT systems administration and artificial intelligence. 
 
 ### Featured Academic Projects
 
-* **[Containerized AI Inference API]((#))**: Engineered a cloud-ready deployment pipeline using Docker and FastAPI to serve lightweight Gen AI models, minimizing processing latency. 
-* **[Audio AI Quality Assurance Framework]((#))**: Developed an automated evaluation pipeline to assess the accuracy, confidence scores, and reliability of AI audio outputs.
-
+* **[ai-inference-api](https://github.com/joysa2002/ai-inference-api)**: Engineered a cloud-ready deployment pipeline using Docker and FastAPI to serve lightweight Gen AI models, minimizing processing latency. 
+* **[ai-model-qa-evaluator](https://github.com/joysa2002/ai-model-qa-evaluator)**: Developed a production-grade automated evaluation pipeline and interactive Tailwind dashboard to assess semantic accuracy, safety compliance, and latency benchmarks for LLM outputs.
 ---
 
 ### Let's Connect
