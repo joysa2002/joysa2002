@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Joysa </h1>
 <h3 align="center">Aiming to research scalable MLOps architectures, Gen AI deployment pipelines, and automated AI quality assurance.</h3>
 
+<p align="center">
+  <a href="https://joysa2002.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-0ea5e9?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
 ---
 
 ### About Me
@@ -37,6 +43,9 @@ I bridge the gap between IT systems administration and artificial intelligence. 
 <a href="mailto:anthonyljoysa@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="www.linkedin.com/in/joysa-anthony-63522b205">
+<a href="https://www.linkedin.com/in/joysa-anthony-63522b205/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://joysa2002.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
 </a>
